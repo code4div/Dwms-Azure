@@ -1,0 +1,15 @@
+{
+  "headers": {
+    "x-nextjs-stale-time": "300",
+    "x-nextjs-prerender": "1",
+    "x-next-cache-tags": "_N_T_/layout,_N_T_/real-time-wear/layout,_N_T_/real-time-wear/page,_N_T_/real-time-wear"
+  },
+  "routeCache": {
+    "key": "/route-cache/APP_PAGE/ad322b6cf699bcf57062ff35ce6e94f5074ea7710b5b8e9a8ec1dd201e66bccc/$/real-time-wear",
+    "owner": {
+      "kind": "APP_PAGE",
+      "sourceRoute": "/real-time-wear/page"
+    },
+    "isFallback": false
+  }
+}

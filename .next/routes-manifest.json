@@ -1,0 +1,137 @@
+{
+  "version": 3,
+  "pages404": true,
+  "caseSensitive": false,
+  "basePath": "",
+  "redirects": [
+    {
+      "source": "/:path+/",
+      "destination": "/:path+",
+      "internal": true,
+      "statusCode": 308,
+      "regex": "^(?:/((?:[^/]+?)(?:/(?:[^/]+?))*))/$"
+    }
+  ],
+  "headers": [],
+  "rewrites": {
+    "beforeFiles": [],
+    "afterFiles": [],
+    "fallback": []
+  },
+  "dynamicRoutes": [],
+  "staticRoutes": [
+    {
+      "page": "/",
+      "regex": "^/(?:/)?$",
+      "routeKeys": {},
+      "namedRegex": "^/(?:/)?$"
+    },
+    {
+      "page": "/_not-found",
+      "regex": "^/_not\\-found(?:/)?$",
+      "routeKeys": {},
+      "namedRegex": "^/_not\\-found(?:/)?$"
+    },
+    {
+      "page": "/approvals",
+      "regex": "^/approvals(?:/)?$",
+      "routeKeys": {},
+      "namedRegex": "^/approvals(?:/)?$"
+    },
+    {
+      "page": "/assets-catalogue",
+      "regex": "^/assets\\-catalogue(?:/)?$",
+      "routeKeys": {},
+      "namedRegex": "^/assets\\-catalogue(?:/)?$"
+    },
+    {
+      "page": "/configuration",
+      "regex": "^/configuration(?:/)?$",
+      "routeKeys": {},
+      "namedRegex": "^/configuration(?:/)?$"
+    },
+    {
+      "page": "/customers",
+      "regex": "^/customers(?:/)?$",
+      "routeKeys": {},
+      "namedRegex": "^/customers(?:/)?$"
+    },
+    {
+      "page": "/dashboard",
+      "regex": "^/dashboard(?:/)?$",
+      "routeKeys": {},
+      "namedRegex": "^/dashboard(?:/)?$"
+    },
+    {
+      "page": "/hierarchy-builder",
+      "regex": "^/hierarchy\\-builder(?:/)?$",
+      "routeKeys": {},
+      "namedRegex": "^/hierarchy\\-builder(?:/)?$"
+    },
+    {
+      "page": "/historical-data",
+      "regex": "^/historical\\-data(?:/)?$",
+      "routeKeys": {},
+      "namedRegex": "^/historical\\-data(?:/)?$"
+    },
+    {
+      "page": "/liner-wear-map",
+      "regex": "^/liner\\-wear\\-map(?:/)?$",
+      "routeKeys": {},
+      "namedRegex": "^/liner\\-wear\\-map(?:/)?$"
+    },
+    {
+      "page": "/my-site",
+      "regex": "^/my\\-site(?:/)?$",
+      "routeKeys": {},
+      "namedRegex": "^/my\\-site(?:/)?$"
+    },
+    {
+      "page": "/operations",
+      "regex": "^/operations(?:/)?$",
+      "routeKeys": {},
+      "namedRegex": "^/operations(?:/)?$"
+    },
+    {
+      "page": "/real-time-wear",
+      "regex": "^/real\\-time\\-wear(?:/)?$",
+      "routeKeys": {},
+      "namedRegex": "^/real\\-time\\-wear(?:/)?$"
+    },
+    {
+      "page": "/reports",
+      "regex": "^/reports(?:/)?$",
+      "routeKeys": {},
+      "namedRegex": "^/reports(?:/)?$"
+    },
+    {
+      "page": "/signin",
+      "regex": "^/signin(?:/)?$",
+      "routeKeys": {},
+      "namedRegex": "^/signin(?:/)?$"
+    },
+    {
+      "page": "/users-roles",
+      "regex": "^/users\\-roles(?:/)?$",
+      "routeKeys": {},
+      "namedRegex": "^/users\\-roles(?:/)?$"
+    }
+  ],
+  "dataRoutes": [],
+  "rsc": {
+    "header": "rsc",
+    "varyHeader": "rsc, next-router-state-tree, next-router-prefetch, next-router-segment-prefetch",
+    "prefetchHeader": "next-router-prefetch",
+    "didPostponeHeader": "x-nextjs-postponed",
+    "contentTypeHeader": "text/x-component",
+    "suffix": ".rsc",
+    "prefetchSuffix": ".prefetch.rsc",
+    "prefetchSegmentHeader": "next-router-segment-prefetch",
+    "prefetchSegmentSuffix": ".segment.rsc",
+    "prefetchSegmentDirSuffix": ".segments"
+  },
+  "rewriteHeaders": {
+    "pathHeader": "x-nextjs-rewritten-path",
+    "queryHeader": "x-nextjs-rewritten-query"
+  }
+}

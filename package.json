@@ -1,0 +1,35 @@
+{
+  "name": "dwms-rajasthan-dashboard",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint",
+    "seed:db": "node scripts/seed.js",
+    "test:db": "node scripts/test-crud.js"
+  },
+  "dependencies": {
+    "lucide-react": "^0.468.0",
+    "next": "^15.5.4",
+    "nodemailer": "^10.2.1",
+    "pg": "^8.23.1",
+    "react": "^19.1.0",
+    "react-dom": "^19.1.0",
+    "resend": "^6.35.0",
+    "sequelize": "^6.37.8",
+    "tedious": "^20.3.8"
+  },
+  "devDependencies": {
+    "@types/node": "^22.10.2",
+    "@types/nodemailer": "^8.0.2",
+    "@types/pg": "^8.23.1",
+    "@types/react": "^19.0.2",
+    "@types/react-dom": "^19.0.2",
+    "autoprefixer": "^10.6.2",
+    "postcss": "^8.4.49",
+    "tailwindcss": "^3.4.19",
+    "typescript": "^5.7.2"
+  }
+}

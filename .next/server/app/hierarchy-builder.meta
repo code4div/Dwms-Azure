@@ -1,0 +1,15 @@
+{
+  "headers": {
+    "x-nextjs-stale-time": "300",
+    "x-nextjs-prerender": "1",
+    "x-next-cache-tags": "_N_T_/layout,_N_T_/hierarchy-builder/layout,_N_T_/hierarchy-builder/page,_N_T_/hierarchy-builder"
+  },
+  "routeCache": {
+    "key": "/route-cache/APP_PAGE/1a6e9200daaadcaf4407af5ab0fc20dd11d58a0c42a9ba83f6322f706d1de73c/$/hierarchy-builder",
+    "owner": {
+      "kind": "APP_PAGE",
+      "sourceRoute": "/hierarchy-builder/page"
+    },
+    "isFallback": false
+  }
+}

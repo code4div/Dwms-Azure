@@ -1,0 +1,21 @@
+{
+  "/api/send-wear-alert/route": "/api/send-wear-alert",
+  "/api/dwms/route": "/api/dwms",
+  "/api/liners/route": "/api/liners",
+  "/page": "/",
+  "/assets-catalogue/page": "/assets-catalogue",
+  "/approvals/page": "/approvals",
+  "/customers/page": "/customers",
+  "/configuration/page": "/configuration",
+  "/hierarchy-builder/page": "/hierarchy-builder",
+  "/dashboard/page": "/dashboard",
+  "/liner-wear-map/page": "/liner-wear-map",
+  "/my-site/page": "/my-site",
+  "/operations/page": "/operations",
+  "/historical-data/page": "/historical-data",
+  "/real-time-wear/page": "/real-time-wear",
+  "/reports/page": "/reports",
+  "/users-roles/page": "/users-roles",
+  "/signin/page": "/signin",
+  "/_not-found/page": "/_not-found"
+}

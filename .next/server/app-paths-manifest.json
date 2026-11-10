@@ -1,0 +1,21 @@
+{
+  "/api/send-wear-alert/route": "app/api/send-wear-alert/route.js",
+  "/api/dwms/route": "app/api/dwms/route.js",
+  "/api/liners/route": "app/api/liners/route.js",
+  "/page": "app/page.js",
+  "/assets-catalogue/page": "app/assets-catalogue/page.js",
+  "/approvals/page": "app/approvals/page.js",
+  "/customers/page": "app/customers/page.js",
+  "/configuration/page": "app/configuration/page.js",
+  "/hierarchy-builder/page": "app/hierarchy-builder/page.js",
+  "/dashboard/page": "app/dashboard/page.js",
+  "/liner-wear-map/page": "app/liner-wear-map/page.js",
+  "/my-site/page": "app/my-site/page.js",
+  "/operations/page": "app/operations/page.js",
+  "/historical-data/page": "app/historical-data/page.js",
+  "/real-time-wear/page": "app/real-time-wear/page.js",
+  "/reports/page": "app/reports/page.js",
+  "/users-roles/page": "app/users-roles/page.js",
+  "/signin/page": "app/signin/page.js",
+  "/_not-found/page": "app/_not-found/page.js"
+}

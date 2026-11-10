@@ -1,0 +1,15 @@
+{
+  "headers": {
+    "x-nextjs-stale-time": "300",
+    "x-nextjs-prerender": "1",
+    "x-next-cache-tags": "_N_T_/layout,_N_T_/assets-catalogue/layout,_N_T_/assets-catalogue/page,_N_T_/assets-catalogue"
+  },
+  "routeCache": {
+    "key": "/route-cache/APP_PAGE/27c8bed71a1b312bf2351247db752e4e5beae885a7c06c1c2bcb47b377105660/$/assets-catalogue",
+    "owner": {
+      "kind": "APP_PAGE",
+      "sourceRoute": "/assets-catalogue/page"
+    },
+    "isFallback": false
+  }
+}

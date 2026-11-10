@@ -1,0 +1,15 @@
+{
+  "headers": {
+    "x-nextjs-stale-time": "300",
+    "x-nextjs-prerender": "1",
+    "x-next-cache-tags": "_N_T_/layout,_N_T_/users-roles/layout,_N_T_/users-roles/page,_N_T_/users-roles"
+  },
+  "routeCache": {
+    "key": "/route-cache/APP_PAGE/f8ac72cc620071d2186befc0b2bea8e1af86a8aa7a8ee89ec4802d75d8a431d1/$/users-roles",
+    "owner": {
+      "kind": "APP_PAGE",
+      "sourceRoute": "/users-roles/page"
+    },
+    "isFallback": false
+  }
+}

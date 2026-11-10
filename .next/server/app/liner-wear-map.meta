@@ -1,0 +1,15 @@
+{
+  "headers": {
+    "x-nextjs-stale-time": "300",
+    "x-nextjs-prerender": "1",
+    "x-next-cache-tags": "_N_T_/layout,_N_T_/liner-wear-map/layout,_N_T_/liner-wear-map/page,_N_T_/liner-wear-map"
+  },
+  "routeCache": {
+    "key": "/route-cache/APP_PAGE/09ed204216f6addfe171a39e7a74b2b505f414cfce65ced9c405bbfb682f59a4/$/liner-wear-map",
+    "owner": {
+      "kind": "APP_PAGE",
+      "sourceRoute": "/liner-wear-map/page"
+    },
+    "isFallback": false
+  }
+}
